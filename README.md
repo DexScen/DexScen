@@ -85,5 +85,3 @@ Conducted training, mentoring in the field of development. Including at the SUSU
 
 I want to be an advanced Golang engineer.
 "No matter what your dream is, you have to dedicate yourself entirely to it" - Ayrton Senna
-
-![DexScen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DexScen\&layout=compact&theme=radical&langs_count=18)
