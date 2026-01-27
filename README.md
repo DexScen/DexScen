@@ -19,7 +19,7 @@ hh.ru/resume/4e2f2b5bff0fec5fbd0039ed1f534b345a7356
 
 ### Education:
 
-South Ural State University - susu.ru, 2023-2027, bachelor degree in Software Engineering
+Moscow State Univerity - msu.ru, 2023-2027, bachelor degree in Software Engineering
 
 Czech Technical University in Prague - cvut.cz, 2021-2023, unfinished bachelor degree in Management in informatics
 
