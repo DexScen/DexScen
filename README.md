@@ -15,8 +15,6 @@ More than 1 year of professional experience in backend development with golang <
 
 ### Work experience:
 
-hh.ru/resume/4e2f2b5bff0fec5fbd0039ed1f534b345a7356
-
 ### Education:
 
 Moscow State Univerity - msu.ru, 2023-2027, bachelor degree in Software Engineering
