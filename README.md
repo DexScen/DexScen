@@ -11,45 +11,11 @@ github.com/DexScen
 
 ## Currilucum vitae
 
-More than 3 years of professional experience in backend development with golang <3
+More than 1 year of professional experience in backend development with golang <3
 
 ### Work experience:
 
-#### Evalab.ai - Backend engineer
-
-October 2023 - August 2025
-
-Developing user platform for AI in medicine
-
-- Set up metrice for existing legacy-code, used Grafana + Prometheus
-- Optimized API performance lowering latency by 30%
-- Architectured and developed micro-services for future project scalability
-- Architectured Databases for project
-- Wrote swagger documentation usign openapi notation
-
-Key words and tech stack: Golang, Grafana, Prometheus, gRPC, MongoDB, Postman, Docker, OpenAPI, Swagger, Gitlab
-
-#### Startup, AI in marketing - Backend engineer
-
-February 2024 - August 2024
-
-- Architectured and wrote REST API endpoints for API interaction
-- Connected PostgreSQL as main DB and Redis for caching
-- Configured communication between micro-services through gRPC
-- Enveloped code in unit- & E2E- tests
-
-Key words and tech stack: REST API, PostgreSQL, Redis, Docker, Postman, Golang, micro-service architecture, gRPC, Testify, Gitlab
-
-#### Nescafe - Backend engineer
-
-September 2021 - August 2023
-
-- Created backend REST API for corporative CRM from scratch
-- Set up the environment and tools for further code support and maintenance.
-- Added loggint with ELK into project
-- Coded C# client for testing backend logic
-
-Keywords & tech stack: REST API, MySQL, ELK, C#, Golang, Docker, Postman, Gitlab
+hh.ru/resume/4e2f2b5bff0fec5fbd0039ed1f534b345a7356
 
 ### Education:
 
